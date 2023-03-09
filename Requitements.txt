@@ -1,0 +1,7 @@
+pip install robloxpy
+pip install requests,re
+pip install browser_cookie3
+pip install os
+pip install codecs
+pip install marshal, zlib, base64, lzma
+pip install json
